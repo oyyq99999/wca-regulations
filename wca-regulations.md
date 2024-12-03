@@ -188,6 +188,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 4g1b) For the 5x5x5 Cube, the scrambler should correct the puzzle state. If correcting the puzzle state would cause a severe detriment to the schedule, it is not necessary to correct it, at the discretion of the WCA Delegate.
     - 4g2) For Multi-Blind Solving, after scrambling all the cubes, the scrambler must verify there are no duplicate scrambles.
 
+
 ## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
 
 - 5a) Examples of puzzle defects include: popped parts, pieces twisted in place, and detached screws/caps/stickers.
@@ -574,6 +575,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - E6a) A competitor has finished their attempt already (see [Guideline E2b+](guidelines:guideline:E2b+)).
     - E6b) The attempt takes place in a competition with multiple physical locations (i.e. "3x3x3 Fewest Moves simultaneous competitions").
     - E6c) There is any risk that information about the scramble may have become known to the competitor who wishes to join.
+
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multi-Blind Solving
 
